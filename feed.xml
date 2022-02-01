@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Flux]]></title>
+        <description><![CDATA[The Flux]]></description>
+        <link>https://theflux.github.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 01 Feb 2022 22:40:35 GMT</lastBuildDate>
+        <atom:link href="https://theflux.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Total Revolution]]></title>
+            <description><![CDATA[needed]]></description>
+            <link>/posts/total-revolution</link>
+            <guid isPermaLink="true">/posts/total-revolution</guid>
+            <category><![CDATA[revolution]]></category>
+            <dc:creator><![CDATA[nullvoid]]></dc:creator>
+            <pubDate>Tue, 01 Feb 2022 18:30:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
