@@ -4,8 +4,18 @@
         <description><![CDATA[The Flux]]></description>
         <link>https://theflux.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Feb 2022 22:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 23:24:23 GMT</lastBuildDate>
         <atom:link href="https://theflux.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mate + Xmonad - A match made in heaven]]></title>
+            <description><![CDATA[best DIY desktop enviroment]]></description>
+            <link>/posts/2021/mate_xmonad</link>
+            <guid isPermaLink="true">/posts/2021/mate_xmonad</guid>
+            <category><![CDATA[linux]]></category>
+            <category><![CDATA[xmonad]]></category>
+            <dc:creator><![CDATA[nullvoid]]></dc:creator>
+            <pubDate>Mon, 03 May 2021 18:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Total Revolution]]></title>
             <description><![CDATA[needed]]></description>
